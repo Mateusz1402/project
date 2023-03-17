@@ -10,4 +10,4 @@
 - Przypisaliśmy konkretne etapy wykonania, poszczególnym członkom projektu
 
 
-tekst 
+tekst siema 
